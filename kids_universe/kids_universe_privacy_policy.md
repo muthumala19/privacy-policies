@@ -56,7 +56,7 @@ We reserve the right to update or modify this Privacy Policy at any time. Change
 
 **Contact Us**
 
-If you have questions or concerns about this Privacy Policy, please contact us at via [Email](pasindumuthumaladevelopment@gmail.com).
+If you have questions or concerns about this Privacy Policy, please contact us at via pasindumuthumaladevelopment@gmail.com.
 
 Thank you for using Kids Universe. Your privacy is important to us, and we are dedicated to protecting it.
 
