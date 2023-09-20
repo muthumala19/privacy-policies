@@ -38,7 +38,7 @@ Our app may contain links to third-party websites or services that are not owned
 
 **Children's Privacy**
 
-Our app is intended for a general audience and is directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us, and we will promptly delete it.
+Our app is directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us, and we will promptly delete it.
 
 **Changes to This Privacy Policy**
 
