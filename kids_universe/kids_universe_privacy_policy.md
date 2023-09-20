@@ -38,7 +38,17 @@ Our app may contain links to third-party websites or services that are not owned
 
 **Children's Privacy**
 
-Our app is directed at children under the age of 13. We do not knowingly collect personal information from children under 13 otherthan asking to sign in with a google account. If you believe we have inadvertently collected such information, please contact us, and we will promptly delete it.
+Our Service is intended for a general audience, including users under the age of 13. We are committed to protecting the privacy of our young users and complying with relevant regulations, such as the Children's Online Privacy Protection Act (COPPA). 
+
+- We do not knowingly collect personally identifiable information from anyone under the age of 13 without obtaining verifiable parental consent. 
+
+- Parents or guardians can review the personal information we collect from their child, request its deletion, and refuse any further collection of information by contacting us. 
+
+- We take appropriate measures to protect the confidentiality, security, and integrity of personal information collected from users under the age of 13.
+
+- If you have any questions or concerns about your child's information or believe that we have collected personal information from your child without parental consent, please contact us immediately. 
+
+Thank you for trusting us with your child's privacy. We are dedicated to providing a safe and enjoyable experience for all users under the age of 13 on our platform.
 
 **Changes to This Privacy Policy**
 
